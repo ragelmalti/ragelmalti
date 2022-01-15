@@ -1,4 +1,5 @@
 # Welcome to my profile!!!
+![Welcome to my profile](https://github.com/ragelmalti/ragelmalti/blob/main/Mer%C4%A7ba.png)
 
 My name is Julian. 
 
